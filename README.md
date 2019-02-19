@@ -2,8 +2,10 @@
 
 ## Screenshot ##
 
+![ScreenShot](https://raw.github.com/NadireGh/HW-Wireframe/img.png)
 
-![Alt text](/relative/path/to/img.png?raw=true "ScreenShot")
+
+
 
 ## In HTML file I have: ##
 
